@@ -17,3 +17,4 @@ trafaret-config==2.0.2
 trafaret==1.2.0
 yarl==1.3.0               # via aiohttp
 # zeropath staging baseline: no-op requirements touch
+# zeropath phase b0: no-op requirements touch
